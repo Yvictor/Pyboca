@@ -2,9 +2,7 @@
 Python api 外交部中文名字轉拼音
 ### 安裝 installation
 ```
-git clone https://github.com/Yvictor/Pyboca.git
-cd Pyboca
-python setup.py install
+pip install pyboca
 ```
 
 ### Quickstart
